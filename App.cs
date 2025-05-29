@@ -7,7 +7,7 @@
         public ContentRating? ContentRating { get; set; }
         public double Rating { get; set; }
         public int Reviews { get; set; }
-        public string? currentVer { get; set; }
+        public string? CurrentVer { get; set; }
         public int UpdateYear { get; set; }
         public int UpdateMonth { get; set; }
 
